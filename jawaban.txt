@@ -1,0 +1,6 @@
+langkah ketik
+ls
+cd (copy length name)
+git add .
+git commit -m "nama"
+git push
